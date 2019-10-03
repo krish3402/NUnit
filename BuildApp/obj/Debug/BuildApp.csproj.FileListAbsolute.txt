@@ -1,0 +1,33 @@
+c:\users\$krish$\documents\visual studio 2015\Projects\BuildApp\BuildApp\bin\Debug\BuildApp.exe.config
+c:\users\$krish$\documents\visual studio 2015\Projects\BuildApp\BuildApp\bin\Debug\BuildApp.exe
+c:\users\$krish$\documents\visual studio 2015\Projects\BuildApp\BuildApp\bin\Debug\BuildApp.pdb
+c:\users\$krish$\documents\visual studio 2015\Projects\BuildApp\BuildApp\obj\Debug\BuildApp.csprojResolveAssemblyReference.cache
+c:\users\$krish$\documents\visual studio 2015\Projects\BuildApp\BuildApp\obj\Debug\BuildApp.Form1.resources
+c:\users\$krish$\documents\visual studio 2015\Projects\BuildApp\BuildApp\obj\Debug\BuildApp.Properties.Resources.resources
+c:\users\$krish$\documents\visual studio 2015\Projects\BuildApp\BuildApp\obj\Debug\BuildApp.csproj.GenerateResource.Cache
+c:\users\$krish$\documents\visual studio 2015\Projects\BuildApp\BuildApp\obj\Debug\BuildApp.exe
+c:\users\$krish$\documents\visual studio 2015\Projects\BuildApp\BuildApp\obj\Debug\BuildApp.pdb
+C:\Users\$krish$\Documents\Visual Studio 2015\Projects\BuildApp\BuildApp\$(build.artifactstagingdirectory)\BuildApp.exe.config
+C:\Users\$krish$\Documents\Visual Studio 2015\Projects\BuildApp\BuildApp\$(build.artifactstagingdirectory)\BuildApp.exe
+C:\Users\$krish$\Documents\Visual Studio 2015\Projects\BuildApp\BuildApp\$(build.artifactstagingdirectory)\BuildApp.pdb
+C:\Users\$krish$\Documents\Visual Studio 2015\Projects\BuildApp\SourceCode\BuildApp\bin\Debug\BuildApp.exe.config
+C:\Users\$krish$\Documents\Visual Studio 2015\Projects\BuildApp\SourceCode\BuildApp\obj\Debug\BuildApp.exe
+C:\Users\$krish$\Documents\Visual Studio 2015\Projects\BuildApp\SourceCode\BuildApp\obj\Debug\BuildApp.pdb
+C:\Users\$krish$\Documents\Visual Studio 2015\Projects\BuildApp\SourceCode\BuildApp\bin\Debug\BuildApp.exe
+C:\Users\$krish$\Documents\Visual Studio 2015\Projects\BuildApp\SourceCode\BuildApp\bin\Debug\BuildApp.pdb
+C:\Users\$krish$\Documents\Visual Studio 2015\Projects\BuildApp\SourceCode\BuildApp\obj\Debug\BuildApp.csprojResolveAssemblyReference.cache
+C:\Users\$krish$\Documents\Visual Studio 2015\Projects\BuildApp\SourceCode\BuildApp\obj\Debug\BuildApp.Form1.resources
+C:\Users\$krish$\Documents\Visual Studio 2015\Projects\BuildApp\SourceCode\BuildApp\obj\Debug\BuildApp.Properties.Resources.resources
+C:\Users\$krish$\Documents\Visual Studio 2015\Projects\BuildApp\SourceCode\BuildApp\obj\Debug\BuildApp.csproj.GenerateResource.Cache
+C:\Users\mohan.t\Downloads\msbuild1-master\msbuild1-master\BuildApp\bin\Debug\BuildApp.exe.config
+C:\Users\mohan.t\Downloads\msbuild1-master\msbuild1-master\BuildApp\bin\Debug\BuildApp.exe
+C:\Users\mohan.t\Downloads\msbuild1-master\msbuild1-master\BuildApp\bin\Debug\BuildApp.pdb
+C:\Users\mohan.t\Downloads\msbuild1-master\msbuild1-master\BuildApp\obj\Debug\BuildApp.Form1.resources
+C:\Users\mohan.t\Downloads\msbuild1-master\msbuild1-master\BuildApp\obj\Debug\BuildApp.Properties.Resources.resources
+C:\Users\mohan.t\Downloads\msbuild1-master\msbuild1-master\BuildApp\obj\Debug\BuildApp.csproj.GenerateResource.cache
+C:\Users\mohan.t\Downloads\msbuild1-master\msbuild1-master\BuildApp\obj\Debug\BuildApp.exe
+C:\Users\mohan.t\Downloads\msbuild1-master\msbuild1-master\BuildApp\obj\Debug\BuildApp.pdb
+C:\Users\mohan.t\Downloads\msbuild1-master\msbuild1-master\BuildApp\bin\Debug\nunit.framework.dll
+C:\Users\mohan.t\Downloads\msbuild1-master\msbuild1-master\BuildApp\bin\Debug\nunit.framework.pdb
+C:\Users\mohan.t\Downloads\msbuild1-master\msbuild1-master\BuildApp\bin\Debug\nunit.framework.xml
+c:\Users\mohan.t\Downloads\msbuild1-master\msbuild1-master\BuildApp\obj\Debug\BuildApp.csprojResolveAssemblyReference.cache
